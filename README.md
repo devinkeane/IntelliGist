@@ -50,18 +50,14 @@ If you encounter an error saying "IntelliGist is damaged and can't be opened", f
 
 Now you're ready to generate an intelligent "gist" of any research paper of any length and of any detail!
 
-```  _                   __              
- / )  / _ _       /  (     __/_ _   _ 
-(__(/()(-/ /)(//)/( __)(/_) /(-//)_)  
-   /      /            /              
-
-     ,     ,
-    (\____/)
-     (_oo_)
-       (O)
-     __||__    \)
-  []/______\[] /
-  / \______/ \/
- /    /__\
-(\   /____\
+```
+              _                   __                                ,     ,
+             / )  / _ _       /  (     __/_ _   _                  (\____/)
+  (c) 2023  (__(/()(-/ /)(//)/( __)(/_) /(-//)_)    L L C           (_oo_)
+               /      /            /                                  (O)
+                                                                    __||__    \)    
+                                                                 []/______\[] /
+                                                                 / \______/ \/
+                                                                /    /__\         
+                                                               (\   /____\
 ```
