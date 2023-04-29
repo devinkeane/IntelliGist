@@ -1,4 +1,5 @@
-# IntelliGist ```(⌐⊙_⊙)```
+
+<img src="https://user-images.githubusercontent.com/12550831/235322400-fd10dd77-9d79-4813-9b56-873ff6c1a15e.png" alt="Alt Text" width="300" />
 
 IntelliGist is a Mac application that summarizes any .pdf input of any research paper of any length. To use the application, you must create a `config.ini` file and place it in the correct location within the application package.
 
