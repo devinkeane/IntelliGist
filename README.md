@@ -10,10 +10,13 @@
   </tr>
 </table>
 
+---
 
 IntelliGist is a Mac application that elegantly and cohesively summarizes any .pdf input of any research paper of any length. This is achieved despite the context length limits of GPT. Unlike other apps which claim to do the same thing, the end result is not simply a concatenation of smaller summaries. Rather, mixed AI techniques and utilities are used to generate one solid final essay of around 500 words that reflects the structure of the paper.
 
 The program is free of charge, but to use the beta version, you must use your own API key generated from your OpenAI account, which you can easily insert into your own config.ini file and place into the appropriate directory.
+
+---
 
 ## Setting up the config.ini file
 
@@ -29,6 +32,8 @@ Replace `<YOUR_OPENAI_API_KEY>` with your actual OpenAI API key, which you can o
 
 3. **Important:** Make sure there are no extra characters or new lines after the content.
 
+---
+
 ## Placing the config.ini file in the application package
 
 1. Locate the `IntelliGist.app` file in Finder.
@@ -36,10 +41,14 @@ Replace `<YOUR_OPENAI_API_KEY>` with your actual OpenAI API key, which you can o
 3. Open the "Contents" folder, then open the "Resources" folder.
 4. Drag and drop your `config.ini` file into the "Resources" folder.
 
+---
+
 ## Installing and running the application
 
 1. Drag the `IntelliGist.app` file to your "Applications" folder.
 2. To launch the application, double-click on `IntelliGist.app` in the "Applications" folder or the original location where you placed the config file.
+
+---
 
 ## Allowing the app to run on your Mac
 
@@ -62,6 +71,8 @@ If you encounter an error saying "IntelliGist is damaged and can't be opened", f
 3. After running the command, you should be able to open the app without the error message.
 
 Now you're ready to generate an intelligent "gist" of any research paper of any length and of any detail!
+
+---
 
 <pre>
 <span style="color: red;">              _                   __                                ,     ,</span>
