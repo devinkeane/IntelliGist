@@ -61,14 +61,14 @@ If you encounter an error saying "IntelliGist is damaged and can't be opened", f
 
 Now you're ready to generate an intelligent "gist" of any research paper of any length and of any detail!
 
-```
-              _                   __                                ,     ,
-             / )  / _ _       /  (     __/_ _   _                  (\____/)
-  (c) 2023  (__(/()(-/ /)(//)/( __)(/_) /(-//)_)    L L C           (_oo_)
-               /      /            /                                  (O)
-                                                                    __||__    \)    
-                                                                 []/______\[] /
-                                                                 / \______/ \/
-                                                                /    /__\         
-                                                               (\   /____\
-```
+<pre>
+<span style="color: red;">              _                   __                                ,     ,</span>
+<span style="color: blue;">             / )  / _ _       /  (     __/_ _   _                  (\____/)</span>
+<span style="color: green;">  (c) 2023  (__(/()(-/ /)(//)/( __)(/_) /(-//)_)    L L C           (_oo_)</span>
+<span style="color: orange;">               /      /            /                                  (O)</span>
+<span style="color: purple;">                                                                    __||__    \)    </span>
+<span style="color: brown;">                                                                 []/______\[] /</span>
+<span style="color: red;">                                                                 / \______/ \/</span>
+<span style="color: blue;">                                                                /    /__\         </span>
+<span style="color: green;">                                                               (\   /____\</span>
+</pre>
