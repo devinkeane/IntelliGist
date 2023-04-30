@@ -1,5 +1,15 @@
 
-<img src="https://user-images.githubusercontent.com/12550831/235322400-fd10dd77-9d79-4813-9b56-873ff6c1a15e.png" alt="Alt Text" width="300" />
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left;">
+      <img src="https://user-images.githubusercontent.com/12550831/235322400-fd10dd77-9d79-4813-9b56-873ff6c1a15e.png" alt="Alt Text" width="300">
+    </td>
+    <td style="text-align: right;">
+      <img src="https://user-images.githubusercontent.com/12550831/235329063-7e8cd259-919c-4096-aef4-218a34da4056.png" width="550">
+    </td>
+  </tr>
+</table>
+
 
 IntelliGist is a Mac application that summarizes any .pdf input of any research paper of any length. To use the application, you must create a `config.ini` file and place it in the correct location within the application package.
 
