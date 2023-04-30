@@ -11,7 +11,9 @@
 </table>
 
 
-IntelliGist is a Mac application that summarizes any .pdf input of any research paper of any length. To use the application, you must create a `config.ini` file and place it in the correct location within the application package.
+IntelliGist is a Mac application that elegantly and cohesively summarizes any .pdf input of any research paper of any length. This is achieved despite the context length limits of GPT. Unlike other apps which claim to do the same thing, the end result is not simply a concatenation of smaller summaries. Rather, mixed AI techniques and utilities are used to generate one solid final essay of around 500 words that reflects the structure of the paper.
+
+The program is free of charge, but to use the beta version, you must use your own API key generated from your OpenAI account, which you can easily insert into your own config.ini file and place into the appropriate directory.
 
 ## Setting up the config.ini file
 
