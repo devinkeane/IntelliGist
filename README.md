@@ -26,11 +26,12 @@ The program is free of charge, but to use the beta version, you must use your ow
 ```
 [openai]
 api_key = <YOUR_OPENAI_API_KEY>
+
 ```
 
-Replace `<YOUR_OPENAI_API_KEY>` with your actual OpenAI API key, which you can obtain from the OpenAI website.
+Replace `<YOUR_OPENAI_API_KEY>` with your actual OpenAI API key, which you can obtain from the OpenAI website. The blank line at the end of the snippet shows a trailing newline, which is perfectly acceptable.
 
-3. **Important:** Make sure there are no extra characters or new lines after the content.
+3. **Important:** Ensure there are no extra characters after the content; a single trailing newline at the end of the file is fine.
 
 ---
 
