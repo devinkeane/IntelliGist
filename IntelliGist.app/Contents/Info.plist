@@ -8,16 +8,18 @@
 	<string>IntelliGist</string>
 	<key>CFBundleIconFile</key>
 	<string>icon.icns</string>
-	<key>CFBundleIdentifier</key>
-	<string>IntelliGist</string>
+        <key>CFBundleIdentifier</key>
+        <string>com.intelligist.app</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>IntelliGist</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
-	<key>CFBundleShortVersionString</key>
-	<string>0.0.0</string>
+        <key>CFBundleShortVersionString</key>
+        <string>0.0.0</string>
+        <key>CFBundleVersion</key>
+        <string>1</string>
 	<key>NSHighResolutionCapable</key>
 	<true/>
 </dict>
